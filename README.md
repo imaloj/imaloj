@@ -1,7 +1,7 @@
 👋 Hi, I’m Aloj Oli
 👀 I’m interested in coding, UI Design
-🌱 I’m currently learning Php, React js. , #C
-💞️ I’m looking to collaborate on ...
+🌱 I’m currently learning Php, React js.
+I’m looking to collaborate on ...
 📫 How to reach me through Facebook
 
 <!---
